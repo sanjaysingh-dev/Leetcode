@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [2485-find-the-pivot-integer](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -47,6 +48,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1664-ways-to-make-a-fair-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2485-find-the-pivot-integer](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2574-left-and-right-sum-differences](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
