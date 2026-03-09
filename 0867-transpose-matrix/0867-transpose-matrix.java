@@ -6,8 +6,8 @@ class Solution {
 
         int ans[][] = new int[M][N];
 
-        for(int i=0;i<M;i++){
-            for(int j=0;j<N;j++){
+        for (int i = 0; i < M; i++) {
+            for (int j = 0; j < N; j++) {
                 ans[i][j] = matrix[j][i];
             }
         }
