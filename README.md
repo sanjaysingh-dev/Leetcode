@@ -34,6 +34,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0507-perfect-number](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0507-perfect-number/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 ## Two Pointers
