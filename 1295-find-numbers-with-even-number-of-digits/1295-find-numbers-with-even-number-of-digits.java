@@ -7,7 +7,6 @@ class Solution {
         for(int i=0;i<N;i++){
            int digit = 0; 
             while(nums[i]>0){
-                int d = nums[i]%10;
                 digit++;    
                 nums[i] = nums[i]/10;  
             }
