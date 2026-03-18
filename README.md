@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0189-rotate-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -53,6 +54,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0048-rotate-image/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
@@ -103,4 +105,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0832-flipping-an-image](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
