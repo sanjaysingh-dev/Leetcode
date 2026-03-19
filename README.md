@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0832-flipping-an-image](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1528-shuffle-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -58,6 +59,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0766-toeplitz-matrix](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -92,6 +94,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
