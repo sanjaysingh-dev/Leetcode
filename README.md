@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0048-rotate-image](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0053-maximum-subarray](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0056-merge-intervals/) | Medium |
@@ -147,6 +148,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0041-first-missing-positive](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0229-majority-element-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
