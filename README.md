@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0048-rotate-image](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0189-rotate-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0507-perfect-number](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0507-perfect-number/) | Easy |
+| [0509-fibonacci-number](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
@@ -124,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0053-maximum-subarray](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0509-fibonacci-number](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,4 +208,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
