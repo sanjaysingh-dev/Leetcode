@@ -50,6 +50,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/sanjaysingh-dev/Leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -186,6 +187,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/sanjaysingh-dev/Leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
