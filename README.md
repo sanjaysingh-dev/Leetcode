@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [1512-number-of-good-pairs](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1528-shuffle-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -73,6 +74,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0507-perfect-number](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0507-perfect-number/) | Easy |
 | [0509-fibonacci-number](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -183,6 +185,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0383-ransom-note](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -190,6 +193,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0383-ransom-note](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [1512-number-of-good-pairs](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
