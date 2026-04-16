@@ -76,6 +76,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [2427-number-of-common-factors](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
 | [2520-count-the-digits-that-divide-a-number](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2520-count-the-digits-that-divide-a-number/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
@@ -224,4 +225,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2427-number-of-common-factors](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 <!---LeetCode Topics End-->
