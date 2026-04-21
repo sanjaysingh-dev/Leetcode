@@ -1,23 +1,26 @@
 class Solution {
     public int[] intersection(int[] nums1, int[] nums2) {
 
-        HashMap<Integer,Integer> map = new HashMap<>();
-        ArrayList<Integer> ans = new ArrayList<>();
+        HashSet<Integer> set = new HashSet<>();
+        HashSet<Integer> ans = new HashSet<>();
 
-        for(int x:nums1)
-         map.put(x,map.getOrDefault(x,0)+1);
+        for (int x : nums1)
+            set.add(x);
 
-        for(int x:nums2){
-            if(map.containsKey(x) && map.get(x)>0){
+        for (int x : nums2) {
+            if (set.contains(x))
                 ans.add(x);
-                map.put(x,0);
-            }
-        } 
+        }
 
-        int result[] = new int[ans.size()];
-        for(int i=0;i<ans.size();i++)
-          result[i] = ans.get(i);
+        int[] result = new int[ans.size()];
+        int i = 0;
 
-          return result;   
+        for (int x : ans) {
+            result[i] = x;
+            i++;
+        }
+
+        return result;
+
     }
 }
