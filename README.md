@@ -23,6 +23,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0152-maximum-product-subarray](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
 | [0169-majority-element](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0217-contains-duplicate](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
@@ -170,6 +171,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0056-merge-intervals](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0169-majority-element](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -192,6 +194,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0041-first-missing-positive](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0169-majority-element/) | Easy |
+| [0217-contains-duplicate](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0383-ransom-note](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0383-ransom-note/) | Easy |
