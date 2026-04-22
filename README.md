@@ -60,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0013-roman-to-integer](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0125-valid-palindrome](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
@@ -160,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 ## Binary Search
@@ -198,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0003-longest-substring-without-repeating-characters](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0073-set-matrix-zeroes](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
