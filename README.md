@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0031-next-permutation](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0031-next-permutation/) | Medium |
 | [0041-first-missing-positive](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
 | [0042-trapping-rain-water](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -202,6 +203,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0013-roman-to-integer](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0041-first-missing-positive](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0041-first-missing-positive/) | Hard |
