@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0766-toeplitz-matrix](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [0912-sort-an-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1051-height-checker](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
@@ -189,6 +190,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0912-sort-an-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1051-height-checker](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
@@ -242,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0912-sort-an-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -281,5 +284,22 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0912-sort-an-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1051-height-checker](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1051-height-checker/) | Easy |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Merge Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Bucket Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Radix Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0912-sort-an-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 <!---LeetCode Topics End-->
