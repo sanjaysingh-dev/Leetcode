@@ -38,6 +38,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0303-range-sum-query-immutable](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0303-range-sum-query-immutable](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0560-subarray-sum-equals-k](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0724-find-pivot-index](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
@@ -168,6 +170,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0152-maximum-product-subarray](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -197,6 +200,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0441-arranging-coins](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -333,4 +337,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0912-sort-an-array/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0410-split-array-largest-sum](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 <!---LeetCode Topics End-->
