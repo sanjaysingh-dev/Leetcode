@@ -204,6 +204,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0240-search-a-2d-matrix-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0349-intersection-of-two-arrays](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0374-guess-number-higher-or-lower](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0441-arranging-coins](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -346,4 +347,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0410-split-array-largest-sum](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+## Interactive
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 <!---LeetCode Topics End-->
