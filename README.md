@@ -67,6 +67,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2348-number-of-zero-filled-subarrays](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2574-left-and-right-sum-differences](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2574-left-and-right-sum-differences/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
@@ -305,12 +306,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0496-next-greater-element-i](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
+| [2104-sum-of-subarray-ranges](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
