@@ -91,6 +91,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0796-rotate-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1528-shuffle-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
@@ -301,6 +302,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0155-min-stack](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
+| [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
