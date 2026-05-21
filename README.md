@@ -388,4 +388,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0138-copy-list-with-random-pointer](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0138-copy-list-with-random-pointer/) | Medium |
 | [0203-remove-linked-list-elements](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
+| [0237-delete-node-in-a-linked-list](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
 <!---LeetCode Topics End-->
