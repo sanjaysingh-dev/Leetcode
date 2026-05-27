@@ -420,6 +420,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -429,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
@@ -436,6 +438,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0098-validate-binary-search-tree](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0102-binary-tree-level-order-traversal](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0144-binary-tree-preorder-traversal](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
@@ -449,5 +452,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0098-validate-binary-search-tree](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0098-validate-binary-search-tree/) | Medium |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
