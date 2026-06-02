@@ -46,7 +46,7 @@ class Solution {
              ans = (ans+count)%mod;
         }
 
-        return (int)((ans+mod)%mod);
+        return (int)ans;
 
     }
 }
