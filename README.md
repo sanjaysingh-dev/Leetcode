@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0205-isomorphic-strings](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0242-valid-anagram/) | Easy |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -204,6 +205,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0155-min-stack](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0155-min-stack/) | Medium |
 | [0173-binary-search-tree-iterator](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 | [0303-range-sum-query-immutable](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
@@ -459,6 +461,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -469,6 +472,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0144-binary-tree-preorder-traversal](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0144-binary-tree-preorder-traversal/) | Easy |
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -484,12 +488,14 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0145-binary-tree-postorder-traversal](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0145-binary-tree-postorder-traversal/) | Easy |
 | [0173-binary-search-tree-iterator](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0173-binary-search-tree-iterator/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0112-path-sum](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0297-serialize-and-deserialize-binary-tree/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
