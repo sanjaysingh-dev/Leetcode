@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0766-toeplitz-matrix](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0867-transpose-matrix](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0912-sort-an-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
@@ -240,6 +241,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0410-split-array-largest-sum](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0441-arranging-coins](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0441-arranging-coins/) | Easy |
 | [0704-binary-search](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0878-nth-magical-number](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0878-nth-magical-number/) | Hard |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
