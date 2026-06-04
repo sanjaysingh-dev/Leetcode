@@ -62,6 +62,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0907-sum-of-subarray-minimums](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0912-sort-an-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1051-height-checker](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1232-check-if-it-is-a-straight-line](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
@@ -243,6 +244,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0704-binary-search](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0878-nth-magical-number](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0878-nth-magical-number/) | Hard |
+| [1011-capacity-to-ship-packages-within-d-days](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2824-count-pairs-whose-sum-is-less-than-target/) | Easy |
