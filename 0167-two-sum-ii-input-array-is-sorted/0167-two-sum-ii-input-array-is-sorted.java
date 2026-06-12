@@ -5,17 +5,12 @@ class Solution {
         int i = 0;
         int j = N-1;
 
-        int ans[] = new int[2];
-
         while(i<j){
 
             int sum = numbers[i]+numbers[j];
 
-            if(sum==target){
-                ans[0] = i+1;
-                ans[1] = j+1;
-                break;
-            }
+            if(sum==target)
+              return new int[]{i+1,j+1};
 
             else if(sum>target)
              j--;
@@ -24,7 +19,7 @@ class Solution {
              i++;
         }
 
-        return ans;
+        return new int[0];
         
     }
 }
