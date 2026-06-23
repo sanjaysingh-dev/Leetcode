@@ -9,16 +9,16 @@ class Solution {
 
     public void solve(String s, int N, int open, int close){
 
-        if(open>N || close>open)
-         return;
-
         if(s.length()==2*N){
             list.add(s);
             return;
         } 
 
 
-        solve(s+"(",N,open+1,close);
+        if(open<N)
+         solve(s+"(",N,open+1,close);
+
+        if(close<open) 
         solve(s+")",N,open,close+1);
     }
 }
