@@ -27,6 +27,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0073-set-matrix-zeroes](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
@@ -299,6 +300,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0191-number-of-1-bits](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
@@ -550,4 +552,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0078-subsets](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0078-subsets/) | Medium |
 <!---LeetCode Topics End-->
