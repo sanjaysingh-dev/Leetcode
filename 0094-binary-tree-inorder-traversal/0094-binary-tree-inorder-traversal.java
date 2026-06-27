@@ -25,11 +25,33 @@ class Solution {
 
     public void inorder(TreeNode root){
 
-        if(root == null)
-         return;
+        TreeNode curr = root;
 
-         inorder(root.left);
-         list.add(root.val);
-         inorder(root.right);
+        while(curr!=null){
+
+            if(curr.left == null){
+                list.add(curr.val);
+                curr = curr.right;
+            }
+
+            else{
+
+                TreeNode temp = curr.left;
+
+                while(temp.right!=null && temp.right!=curr )
+                 temp = temp.right;
+
+                if(temp.right==null){
+                 temp.right = curr;
+                 curr = curr.left;
+                }
+
+                if(temp.right==curr){
+                    temp.right = null;
+                    list.add(curr.val);
+                    curr = curr.right;
+                } 
+            }
+        }
     }
 }
