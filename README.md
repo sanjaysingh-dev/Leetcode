@@ -63,6 +63,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0349-intersection-of-two-arrays](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [0493-reverse-pairs](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0496-next-greater-element-i](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -281,6 +282,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0374-guess-number-higher-or-lower](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0374-guess-number-higher-or-lower/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0441-arranging-coins](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0441-arranging-coins/) | Easy |
+| [0493-reverse-pairs](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0704-binary-search](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0878-nth-magical-number](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0878-nth-magical-number/) | Hard |
@@ -378,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0169-majority-element/) | Easy |
 | [0191-number-of-1-bits](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0493-reverse-pairs](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
@@ -467,6 +470,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0148-sort-list](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0148-sort-list/) | Medium |
+| [0493-reverse-pairs](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0912-sort-an-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Bucket Sort
 | Problem Name | Difficulty |
@@ -619,4 +623,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0046-permutations](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0078-subsets/) | Medium |
+## Binary Indexed Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+## Segment Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0493-reverse-pairs](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 <!---LeetCode Topics End-->
