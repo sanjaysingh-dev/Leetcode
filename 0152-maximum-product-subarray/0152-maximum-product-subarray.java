@@ -1,26 +1,27 @@
 class Solution {
     public int maxProduct(int[] nums) {
 
+        int psum = 1;
+        int ssum = 1;
+
         int N = nums.length;
+        int max = Integer.MIN_VALUE;
 
-        int max = nums[0];
-        int min = nums[0];
-        int result = nums[0];
+        for(int i=0;i<N;i++){
 
-        for(int i=1;i<N;i++){
-        
-        int curr = nums[i];
+            if(psum==0)
+             psum = 1;
+            
+            if(ssum==0)
+             ssum = 1;
 
-        int tempmax = Math.max(curr,Math.max(curr*max,curr*min)); 
-        int tempmin = Math.min(curr,Math.min(curr*max,curr*min));
+            psum = psum*nums[i];
+            ssum = ssum*nums[N-i-1];
 
-        max = tempmax;
-        min = tempmin;
-
-        result = Math.max(result,max);
+            max = Math.max(max,Math.max(psum,ssum));  
         }
 
-        return result;
+        return max;
         
     }
 }
