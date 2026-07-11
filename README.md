@@ -133,6 +133,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1528-shuffle-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [1903-largest-odd-number-in-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
@@ -363,6 +364,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/sanjaysingh-dev/Leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -374,6 +376,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0451-sort-characters-by-frequency](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1781-sum-of-beauty-of-all-substrings](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
