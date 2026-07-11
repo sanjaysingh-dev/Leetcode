@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1528-shuffle-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1528-shuffle-string/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 ## Math
@@ -149,6 +150,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1232-check-if-it-is-a-straight-line](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1232-check-if-it-is-a-straight-line/) | Easy |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1295-find-numbers-with-even-number-of-digits/) | Easy |
 | [1512-number-of-good-pairs](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
+| [1903-largest-odd-number-in-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 | [2348-number-of-zero-filled-subarrays](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2348-number-of-zero-filled-subarrays/) | Medium |
 | [2427-number-of-common-factors](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2427-number-of-common-factors/) | Easy |
 | [2485-find-the-pivot-integer](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2485-find-the-pivot-integer/) | Easy |
@@ -485,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
+| [1903-largest-odd-number-in-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
 | ------- | ------- |
