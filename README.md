@@ -124,6 +124,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0345-reverse-vowels-of-a-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0383-ransom-note](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0796-rotate-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -310,6 +311,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0242-valid-anagram/) | Easy |
 | [0349-intersection-of-two-arrays](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0349-intersection-of-two-arrays/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1051-height-checker](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1051-height-checker/) | Easy |
 | [1346-check-if-n-and-its-double-exist](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1346-check-if-n-and-its-double-exist/) | Easy |
@@ -353,6 +355,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0383-ransom-note](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
@@ -366,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0229-majority-element-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0229-majority-element-ii/) | Medium |
 | [0383-ransom-note](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0383-ransom-note/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0451-sort-characters-by-frequency](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
 | [1512-number-of-good-pairs](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
@@ -465,6 +469,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0023-merge-k-sorted-lists/) | Hard |
 | [0239-sliding-window-maximum](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0451-sort-characters-by-frequency](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1046-last-stone-weight](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1046-last-stone-weight/) | Easy |
 ## Merge Sort
@@ -477,6 +482,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0451-sort-characters-by-frequency](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0912-sort-an-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
