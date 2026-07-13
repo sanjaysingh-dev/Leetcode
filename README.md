@@ -146,6 +146,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0013-roman-to-integer](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0048-rotate-image](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0048-rotate-image/) | Medium |
 | [0069-sqrtx](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0069-sqrtx/) | Easy |
+| [0070-climbing-stairs](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0204-count-primes](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0204-count-primes/) | Medium |
 | [0231-power-of-two](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0231-power-of-two/) | Easy |
@@ -241,6 +242,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0070-climbing-stairs](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
@@ -456,6 +458,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0070-climbing-stairs](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Enumeration
 | Problem Name | Difficulty |
