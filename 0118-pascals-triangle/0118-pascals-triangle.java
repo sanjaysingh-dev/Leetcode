@@ -3,23 +3,27 @@ class Solution {
 
         List<List<Integer>> ans = new ArrayList<>();
 
-        for(int i=0;i<numRows;i++){
+        for(int i=1;i<=numRows;i++)
+          ans.add(NCR(i));
 
-            List<Integer> temp = new ArrayList<>();
+          return ans;
+        
+    }
 
-            for(int j=0;j<=i;j++){
-                
-            if(j==0 || j==i)
-              temp.add(1);
+    public List<Integer> NCR(int r){
 
-             else
-              temp.add(ans.get(i-1).get(j-1)+ans.get(i-1).get(j));    
-         }
-            ans.add(temp);
+        long res = 1;
+        List<Integer> ans = new ArrayList<>();
 
+        ans.add(1);
+
+        for(int c=1;c<r;c++){
+            res = res*(r-c);
+            res = res/c;
+
+            ans.add((int)res);
         }
 
-        return ans;      
-        
+        return ans;
     }
 }
