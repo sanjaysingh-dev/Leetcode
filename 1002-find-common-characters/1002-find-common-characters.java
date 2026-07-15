@@ -2,35 +2,35 @@ class Solution {
     public List<String> commonChars(String[] words) {
 
         int N = words.length;
-        int minF[] = new int[26];
 
-        Arrays.fill(minF,Integer.MAX_VALUE);
+        int g[] = new int[26];
+        Arrays.fill(g,Integer.MAX_VALUE);
+
+        int l[] = new int[26];
 
         for(int i=0;i<N;i++){
 
-            char ch[] = words[i].toCharArray();
-            int freq[] = new int[26];
+            Arrays.fill(l,0);
 
-            for(int j=0;j<ch.length;j++)
-              freq[ch[j]-'a']++;
+            for(char ch: words[i].toCharArray())
+              l[ch-'a']++;
 
             for(int j=0;j<26;j++)
-              minF[j] = Math.min(minF[j],freq[j]);  
+             g[j] = Math.min(g[j],l[j]);  
         }
 
         List<String> ans = new ArrayList<>();
 
         for(int i=0;i<26;i++){
-            if(minF[i]>0){
-                while(minF[i]>0){
+            if(g[i]>0){
+                while(g[i]>0){
                     ans.add(Character.toString((char)(i+'a')));
-                    minF[i]--;
+                    g[i]--;
                 }
             }
         }
 
         return ans;
-        
         
     }
 }
