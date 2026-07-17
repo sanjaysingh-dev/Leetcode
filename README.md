@@ -43,6 +43,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0119-pascals-triangle-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0119-pascals-triangle-ii/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0128-longest-consecutive-sequence](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0128-longest-consecutive-sequence/) | Medium |
+| [0135-candy](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0135-candy/) | Hard |
 | [0136-single-number](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0137-single-number-ii/) | Medium |
 | [0152-maximum-product-subarray](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0152-maximum-product-subarray/) | Medium |
@@ -525,6 +526,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0135-candy](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0135-candy/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
