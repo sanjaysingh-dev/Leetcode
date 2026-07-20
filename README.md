@@ -72,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0518-coin-change-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0605-can-place-flowers](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0724-find-pivot-index](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0724-find-pivot-index/) | Easy |
@@ -541,6 +542,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0135-candy](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0135-candy/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0605-can-place-flowers](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0605-can-place-flowers/) | Easy |
 | [1903-largest-odd-number-in-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1903-largest-odd-number-in-string/) | Easy |
 ## Interactive
 | Problem Name | Difficulty |
