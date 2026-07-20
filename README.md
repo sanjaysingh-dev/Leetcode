@@ -69,6 +69,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0493-reverse-pairs](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0493-reverse-pairs/) | Hard |
 | [0496-next-greater-element-i](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0518-coin-change-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [0704-binary-search](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -265,6 +266,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0322-coin-change](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0322-coin-change/) | Medium |
 | [0410-split-array-largest-sum](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0509-fibonacci-number](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0518-coin-change-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0518-coin-change-ii/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 ## Design
 | Problem Name | Difficulty |
