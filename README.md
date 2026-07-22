@@ -138,6 +138,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0394-decode-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0394-decode-string/) | Medium |
 | [0451-sort-characters-by-frequency](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0696-count-binary-substrings](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0796-rotate-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0796-rotate-string/) | Easy |
 | [1002-find-common-characters](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
@@ -210,6 +211,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0455-assign-cookies](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0455-assign-cookies/) | Easy |
 | [0557-reverse-words-in-a-string-iii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
+| [0696-count-binary-substrings](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0832-flipping-an-image](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
