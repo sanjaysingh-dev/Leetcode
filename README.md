@@ -79,6 +79,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0739-daily-temperatures](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0739-daily-temperatures/) | Medium |
 | [0766-toeplitz-matrix](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0832-flipping-an-image](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0832-flipping-an-image/) | Easy |
+| [0833-find-and-replace-in-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0867-transpose-matrix](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0907-sum-of-subarray-minimums/) | Medium |
@@ -142,6 +143,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0557-reverse-words-in-a-string-iii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0557-reverse-words-in-a-string-iii/) | Easy |
 | [0696-count-binary-substrings](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0696-count-binary-substrings/) | Easy |
 | [0796-rotate-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0796-rotate-string/) | Easy |
+| [0833-find-and-replace-in-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [1002-find-common-characters](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1021-remove-outermost-parentheses](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1021-remove-outermost-parentheses/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -349,6 +351,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0350-intersection-of-two-arrays-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0451-sort-characters-by-frequency](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0451-sort-characters-by-frequency/) | Medium |
 | [0455-assign-cookies](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0455-assign-cookies/) | Easy |
+| [0833-find-and-replace-in-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0912-sort-an-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1051-height-checker/) | Easy |
@@ -401,6 +404,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0454-4sum-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0454-4sum-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0833-find-and-replace-in-string](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0833-find-and-replace-in-string/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [1002-find-common-characters](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1002-find-common-characters/) | Easy |
 | [1010-pairs-of-songs-with-total-durations-divisible-by-60](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1010-pairs-of-songs-with-total-durations-divisible-by-60/) | Medium |
