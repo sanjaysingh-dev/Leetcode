@@ -125,6 +125,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
+| [0038-count-and-say](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0049-group-anagrams/) | Medium |
 | [0076-minimum-window-substring](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0076-minimum-window-substring/) | Hard |
 | [0125-valid-palindrome](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0125-valid-palindrome/) | Easy |
