@@ -1,44 +1,6 @@
 class Solution {
 
-    public boolean isSafe(int row, int col, char[][] board, int N){
-
-        int r = row;
-        int c = col;
-
-        while(r>=0 && c>=0){
-            if(board[r][c]=='Q')
-             return false;
-
-            r--;
-            c--; 
-        }
-
-        r = row;
-        c = col;
-        
-        while(c>=0){
-            if(board[r][c] == 'Q')
-             return false;
-
-            c--; 
-        }
-
-        r = row;
-        c = col;
-
-        while(r<N && c>=0){
-            if(board[r][c] == 'Q')
-             return false;
-
-            r++;
-            c--; 
-        }
-
-        return true;
-
-    }
-
-    public void queen(int col,char[][] board, List<List<String>> ans, int N){
+    public void queen(int col,char[][] board,int leftrow[], int lowerD[], int upperD[], List<List<String>> ans, int N){
 
         if(col==N){
             
@@ -52,9 +14,17 @@ class Solution {
         }
 
         for(int row=0;row<N;row++){
-            if(isSafe(row,col,board,N)){
+            if(leftrow[row]==0 && lowerD[row+col]==0 && upperD[N-1+col-row]==0){
             board[row][col] = 'Q';
-            queen(col+1,board,ans,N);
+            leftrow[row] = 1;
+            lowerD[row+col] = 1;
+            upperD[N-1+col-row] = 1;
+
+            queen(col+1,board,leftrow,lowerD,upperD,ans,N);
+            
+            leftrow[row] = 0;
+            lowerD[row+col] = 0;
+            upperD[N-1+col-row] = 0;
             board[row][col] = '.';
             }
         }
@@ -71,7 +41,11 @@ class Solution {
         for(int i=0;i<n;i++)
          Arrays.fill(board[i],'.');
 
-        queen(0,board,ans,n);
+         int leftrow[] = new int[n];
+         int lowerD[] = new int[2*n-1];
+         int upperD[] = new int[2*n-1];
+
+        queen(0,board,leftrow,lowerD,upperD,ans,n);
         return ans;  
         
     }
