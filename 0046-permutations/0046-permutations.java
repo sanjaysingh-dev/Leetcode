@@ -1,36 +1,37 @@
 class Solution {
+    public void permute(int arr[], int idx, int N, List<List<Integer>> ans){
 
-    List<List<Integer>> ans = new ArrayList<>();
+        if(idx==N){
 
-    public List<List<Integer>> permute(int[] nums) {
-        
-        int N = nums.length;
-        boolean visited[] = new boolean[nums.length];
-        List<Integer> curr = new ArrayList<>();
+         List<Integer> list = new ArrayList<>();
+          for(int i=0;i<N;i++)
+             list.add(arr[i]);
 
-        permute(nums,curr,visited);
-        return ans;
+             ans.add(new ArrayList<>(list));
+             return;
+        }
+
+        for(int i=idx;i<N;i++){
+
+            swap(arr,i,idx);
+            permute(arr,idx+1,N,ans);
+            swap(arr,idx,i);
+        }
     }
 
-    public void permute(int A[], List<Integer> curr, boolean visited[]){
+    public void swap(int arr[], int i, int j){
+        int temp = arr[i];
+        arr[i] = arr[j];
+        arr[j] = temp;
+    }
 
-        if(curr.size()==A.length){
-            ans.add(new ArrayList<>(curr));
-            return;
-        }
 
-        for(int i=0;i<A.length;i++){
+    public List<List<Integer>> permute(int[] nums) {
 
-            if(visited[i] == false){
+        List<List<Integer>> ans = new ArrayList<>();
+        int N = nums.length;
+        permute(nums,0,N,ans);   
+        return ans;
 
-                visited[i] = true;
-                curr.add(A[i]);
-
-                permute(A,curr,visited);
-
-                visited[i] = false;
-                curr.remove(curr.size()-1);
-            }
-        }
     }
 }
