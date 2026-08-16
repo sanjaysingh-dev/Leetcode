@@ -1,24 +1,4 @@
 class Solution {
-
-    public boolean dfs(int src, int vis[],int path[], List<List<Integer>> graph){
-
-        vis[src] = 1;
-        path[src] = 1;
-
-        for(int i: graph.get(src)){
-            if(vis[i]==0){
-                if(dfs(i,vis,path,graph)==true)
-                  return true; 
-            }
-            
-            else if(path[i]==1)
-             return  true;
-        }
-
-        path[src] = 0;
-        return false;
-    }
-
     public boolean canFinish(int numCourses, int[][] prerequisites) {
 
         List<List<Integer>> graph = new ArrayList<>();
@@ -26,24 +6,46 @@ class Solution {
         for(int i=0;i<numCourses;i++)
          graph.add(new ArrayList<>());
 
-        for(int i=0;i<prerequisites.length;i++){
+        int N = prerequisites.length;
+        int ind[] = new int[numCourses];
+
+
+        for(int i=0;i<N;i++){
             int des = prerequisites[i][0];
             int src = prerequisites[i][1];
 
             graph.get(src).add(des);
-        }
+            ind[des]++;
+        } 
 
-        int vis[] = new int[numCourses];
-        int path[] = new int[numCourses];
+
+        Queue<Integer> q = new LinkedList<>(); 
 
         for(int i=0;i<numCourses;i++){
-            if(vis[i]==0){
-                if(dfs(i,vis,path,graph)==true)
-                 return false;
+            if(ind[i]==0)
+             q.offer(i);
+        } 
+
+        int count = 0;
+
+        while(!q.isEmpty()){
+
+            int v = q.poll();
+            count++;
+
+            for(int i: graph.get(v)){
+                ind[i]--;
+                if(ind[i]==0)
+                  q.offer(i);
             }
         }
 
-        return true;
+        if(count<numCourses)
+         return false;
+
+        else
+         return true; 
+
         
     }
 }
