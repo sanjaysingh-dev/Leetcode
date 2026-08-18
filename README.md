@@ -130,6 +130,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2828-check-if-a-string-is-an-acronym-of-words/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/sanjaysingh-dev/Leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sanjaysingh-dev/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -450,6 +451,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1512-number-of-good-pairs](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1512-number-of-good-pairs/) | Easy |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1781-sum-of-beauty-of-all-substrings/) | Medium |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/sanjaysingh-dev/Leetcode/tree/main/3162-find-the-number-of-good-pairs-i/) | Easy |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/sanjaysingh-dev/Leetcode/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
