@@ -119,6 +119,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1664-ways-to-make-a-fair-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1664-ways-to-make-a-fair-array/) | Medium |
 | [1732-find-the-highest-altitude](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1991-find-the-middle-index-in-array](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2149-rearrange-array-elements-by-sign](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2149-rearrange-array-elements-by-sign/) | Medium |
@@ -268,6 +269,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1380-lucky-numbers-in-a-matrix](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1380-lucky-numbers-in-a-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1886-determine-whether-matrix-can-be-obtained-by-rotation/) | Easy |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [2643-row-with-maximum-ones](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2643-row-with-maximum-ones/) | Easy |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/sanjaysingh-dev/Leetcode/tree/main/2946-matrix-similarity-after-cyclic-shifts/) | Easy |
 ## Prefix Sum
@@ -740,6 +742,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0785-is-graph-bipartite](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0994-rotting-oranges](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0994-rotting-oranges/) | Medium |
 | [1020-number-of-enclaves](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1020-number-of-enclaves/) | Medium |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
