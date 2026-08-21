@@ -29,6 +29,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0054-spiral-matrix](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0054-spiral-matrix/) | Medium |
+| [0055-jump-game](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0056-merge-intervals](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0057-insert-interval/) | Medium |
 | [0059-spiral-matrix-ii](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0059-spiral-matrix-ii/) | Medium |
@@ -295,6 +296,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0022-generate-parentheses](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0055-jump-game](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0070-climbing-stairs](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0085-maximal-rectangle](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0118-pascals-triangle/) | Easy |
@@ -600,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0011-container-with-most-water/) | Medium |
+| [0055-jump-game](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0055-jump-game/) | Medium |
 | [0135-candy](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0135-candy/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0455-assign-cookies](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0455-assign-cookies/) | Easy |
