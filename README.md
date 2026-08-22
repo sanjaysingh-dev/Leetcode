@@ -826,4 +826,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0207-course-schedule/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
