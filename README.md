@@ -838,4 +838,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0511-game-play-analysis-i](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0511-game-play-analysis-i/) | Easy |
 | [0577-employee-bonus](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0577-employee-bonus/) | Easy |
 | [0607-sales-person](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0607-sales-person/) | Easy |
+| [1633-percentage-of-users-attended-a-contest](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 <!---LeetCode Topics End-->
