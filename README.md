@@ -840,4 +840,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0584-find-customer-referee](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [0607-sales-person](https://github.com/sanjaysingh-dev/Leetcode/tree/main/0607-sales-person/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/sanjaysingh-dev/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 <!---LeetCode Topics End-->
